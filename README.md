@@ -2,4 +2,4 @@
 hogehoge
 newbranchブランチからの更新！！
 こんにちわ
-mainブランチからの更新
+pull requestブランチからの更新
